@@ -3,8 +3,8 @@
 ## O que é?
 É um chat web com comunicação em tempo real, utilizando a biblioteca Socket.io do javascript.
 
-Equipe: Daniel Azevêdo
-        Joelython Wesllyhm
+Equipe: Daniel Azevêdo </br>
+        Joelython Wesllyhm </br>
         Livia Cunha
 
 </br>
